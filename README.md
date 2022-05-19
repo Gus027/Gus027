@@ -1,13 +1,12 @@
 ### Olá me Chamo Gustavo Gomes👋
 
-E seja bem-vindo a minha Bio 😄:
+E seja bem-vindo ao meu perfil:
 
 - 🔭 No momento trabalho como estagiario manipulando linguagem SQL
 - 🌱 Graduando em Sistemas de Informação - S.I
 - 📫 Me especializando em outras linguagens de Programação
 - ⚡ Skills: SQL, JAVA , PYTHON , HTML ,  CSS , JS
 - 💬 Entre em contato comigo : N°(27) 99847-1555 , Email: gustavogomesferreira2012@outlook.com 
-- 👯 Desfrute um pouco do meu trabalho.
 
 <div align="center">
   <a href="https://github.com/Gus027">
