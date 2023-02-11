@@ -1,4 +1,4 @@
-### Olá me Chamo Gustavo Gomes👋
+### Olá Me Chamo Gustavo👋
 
 E seja bem-vindo ao meu perfil:
 
