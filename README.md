@@ -1,4 +1,4 @@
-### Olá Me Chamo Gustavo👋
+### I am Gustavo👋
 
 E seja bem-vindo ao meu perfil:
 
