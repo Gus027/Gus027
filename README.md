@@ -2,7 +2,7 @@
 
 E seja bem-vindo ao meu perfil:
 
-- 🔭 No momento trabalho como Suporte Tecnico manipulando linguagem SQL
+- 🔭 No momento trabalho como Analista de Sistemas manipulando SQL e C#
 - 🌱 Graduando Em: Sistemas de Informação & Analise e Desenvolvimento de Sistemas
 - 📫 Me especializando em outras linguagens de Programação
 - ⚡ Skills: SQL, JAVA , PYTHON , C# , GIT , HTML ,  CSS , JS
