@@ -1,12 +1,12 @@
 ### I am Gustavo👋
 
-E seja bem-vindo ao meu perfil:
+And welcome to my profile:
 
-- 🔭 No momento trabalho como Analista de Sistemas manipulando SQL e C#
-- 🌱 Graduando Em: Sistemas de Informação & Analise e Desenvolvimento de Sistemas
-- 📫 Me especializando em outras linguagens de Programação
-- ⚡ Skills: SQL, JAVA , PYTHON , C# , GIT , HTML ,  CSS , JS
-- 💬 Entre em contato comigo : N°(27) 99847-1555 , Email: gustavogomesferreira2012@outlook.com 
+- 🔭 Currently, I work as a Systems Analyst handling SQL and C#.
+- 🌱 I am pursuing a degree in Information Systems & Systems Analysis and Development.
+- 📫 I am also specializing in other programming languages.
+- ⚡ Skills: SQL, JAVA, PYTHON, C#, GIT, HTML, CSS, JS.
+- 💬 Feel free to contact me: Phone: +27 99847-1555, Email: gustavogomesferreira2012@outlook.com.
 
 <div align="center">
   <a href="https://github.com/Gus027">
