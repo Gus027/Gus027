@@ -5,7 +5,7 @@ And welcome to my profile:
 - 🔭 Currently, I work as a Systems Analyst handling SQL and C#.
 - 🌱 I am pursuing a degree in Information Systems & Systems Analysis and Development.
 - 📫 I am also specializing in other programming languages.
-- ⚡ Skills: SQL, JAVA, PYTHON, C#, GIT, HTML, CSS, JS.
+- ⚡ Skills: SQL, JAVA, KOTLIN, PYTHON, C#, GIT, HTML, TYPESCRIPT, JS.
 - 💬 Feel free to contact me: Phone: +27 99847-1555, Email: gustavogomesferreira2012@outlook.com.
 
 <div align="center">
